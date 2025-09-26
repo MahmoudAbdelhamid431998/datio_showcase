@@ -1,4 +1,4 @@
-# 📅 Datio - Your Unified Calendar
+# <img src="assets/app_icon.png" width="100"/> Datio - Your Unified Calendar
 
 **Datio** is a comprehensive multi-calendar application that brings together three major calendar systems in one elegant, user-friendly interface. Experience seamless calendar management across different cultural and religious traditions.
 
